@@ -14,9 +14,9 @@ cd Desktop
 python3 skytranscriber.py
 ```
 
-
-
 This changes the directory to your Desktop, and then runs the file.
+
+![terminal-with-instructions.png](https://github.com/t1-tracey/sky-python-transcriber/blob/master/terminal-with-instructions.png)
 
 It would be just `python skytranscriber.py` on Windows I think.
 
