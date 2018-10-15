@@ -4,19 +4,21 @@ I restarted but it's okay y'all :+1: :+1:
 # Instructions
 
 
-1. Copy this file and save it as `transcribe.py` to your Desktop
+1. Copy this file and save it as `skytranscriber.py` to your Desktop
 2. Open a Terminal and type: 
 
 ```
 cd Desktop
-python3 transcribe.py
+python3 skytranscriber.py
 ```
 
-It would be just `python transcribe.py` on Windows I think.
+This changes the directory to your Desktop, and then runs the file.
 
-3. Use QWERT, ASDFG, ZXCVB as the harp keyboard, and <kbd>(</kbd><kbd>)</kbd> for brackets. Type a line, and press Enter each time you want to start a new line.
+It would be just `python skytranscriber.py` on Windows I think.
 
-4. When done, press Enter to finish the song. You'll find a file named `(your-song-name)-html.txt`
+3. Use QWERT, ASDFG, ZXCVB as the harp keyboard, and <kbd>(</kbd><kbd>)</kbd> for brackets. Spaces are also allowed. Type a line, and press Enter each time you want to start a new line.
+
+4. When done, press Enter to finish the song. You'll find a file named `(your-song-name).html`
 
 Add this to the start of the file:
 
@@ -38,8 +40,6 @@ Add this to the start of the file:
 
   </head>
 ```
-
-and add `</html>` to the end. Remove the `.txt` part from the file name. (I should really fix this)
 
 5. Double click on the file to open in a browser. Voila :blush:
 
