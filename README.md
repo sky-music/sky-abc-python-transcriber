@@ -25,3 +25,5 @@ It would be just `python skytranscriber.py` on Windows I think.
 ![sky-python-transcriber-cli](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/sky-python-transcriber-cli.png)
 
 4. When done, press Enter to finish the song. You'll find a file named `(your-song-name).html`. Double click on the file to open in a browser. Voila :blush:
+
+![Apotheosis Notation](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/Apotheosis-intro-notation.png)
