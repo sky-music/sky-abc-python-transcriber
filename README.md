@@ -1,16 +1,20 @@
 # sky-python-transcriber
 I restarted but it's okay y'all :+1: :+1:
 
-# Instructions
+This is piece of Python code that allows you to write [Sky](thatgamecompany.com/sky) song notations into a webpage.
+
+# Instructions to install
 
 
-1. Copy this file and save it as `skytranscriber.py` to your Desktop
+1. Copy the `skytranscriber.py` file and save it to your Desktop
 2. Open a Terminal and type: 
 
 ```
 cd Desktop
 python3 skytranscriber.py
 ```
+
+
 
 This changes the directory to your Desktop, and then runs the file.
 
