@@ -16,11 +16,13 @@ cd Desktop
 python3 skytranscriber.py
 ```
 
+I am using a Mac, it would be just `python skytranscriber.py` on Windows I think.
+
 This changes the directory to your Desktop (or whatever location you've chosen e.g. `Documents/projects`), and then runs the file.
 
 ![terminal-with-instructions.png](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/terminal-with-instructions.png)
 
-It would be just `python skytranscriber.py` on Windows I think.
+
 
 3. Use QWERT, ASDFG, ZXCVB as the harp keyboard, and <kbd>(</kbd><kbd>)</kbd> for brackets. Spaces are also allowed but not working yet. Type a line, and press Enter each time you want to start a new line.
 
