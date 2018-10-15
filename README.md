@@ -18,7 +18,7 @@ python3 skytranscriber.py
 
 I am using a Mac, it would be just `python skytranscriber.py` on Windows I think.
 
-This changes the directory to your Desktop (or whatever location you've chosen e.g. `Documents/projects`), and then runs the file.
+This changes the directory to your Desktop (or replace `cd Desktop` whatever location you've chosen e.g. `cd Documents/`), and then runs the file.
 
 ![terminal-with-instructions.png](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/terminal-with-instructions.png)
 
