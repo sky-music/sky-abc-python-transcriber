@@ -16,7 +16,8 @@ for row in rows:
 print('NEW SONG')
 song_name = input('Enter name for song: ')
 
-song_file = open(song_name + '-html.txt','w+')
+song_file = open(song_name + '.html','w+')
+song_file.write("<!DOCTYPE html>\n<html>\n<head>\n<title>My Sky Song</title><style>body {margin: 50px; font-size: 30px; font-family: monospace; line-height: 50px;}span {width: 100px; height: 100px; border-radius: 20px;}.row-A {background-color: #8ed5ff;}.row-B {background-color: #f1a3ff;}.row-C {background-color: #ffa59b;}h1 {font-family: \"Avenir\";}</style></head>")
 song_file.write("<body>\n")
 song_file.write("<h1>" + song_name + "</h1>" + '\n')
 
@@ -54,5 +55,5 @@ while line:
     previous_note = ''
 
 print("Done. Please check the file with the name of the song.")
-song_file.write("</body>")
+song_file.write("</body>\n</html>")
 song_file.close()
