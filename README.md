@@ -3,7 +3,6 @@ I restarted but it's okay y'all :+1: :+1:
 
 # Instructions
 
-```
 
 1. Copy this file and save it as `transcribe.py` to your Desktop
 2. Open a Terminal and type: 
