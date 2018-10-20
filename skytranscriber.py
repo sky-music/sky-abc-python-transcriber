@@ -38,11 +38,13 @@ while line:
                 note = input_letter_mappings[token]
                 current_row = note[0]
                 # Style using div
-                node_name = "<span class=\"row-" + current_row + "\">" + note + '</span> '
+                node_name = "<span class=\"row-" + current_row + "\">" + note + "</span> "
+            elif token == " ":
+                node_name = "<span class=\"marker\"> &nbsp; </span> "
             else:
                 note = token
                 # Style using div
-                node_name = "<span class=\"marker\">" + note + '</span> '
+                node_name = "<span class=\"marker\">" + note + "</span> "
 
             result += node_name
 
@@ -54,6 +56,6 @@ while line:
     line = input('New line: ')
     previous_note = ''
 
-print("Done. Please check the file with the name of the song.")
+print("Done. Please check the file named \"" + song_name + ".html\"")
 song_file.write("</body>\n</html>")
 song_file.close()
