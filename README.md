@@ -31,3 +31,7 @@ This changes the directory to your Desktop (or replace `cd Desktop` whatever loc
 4. When done, press Enter to finish the song. You'll find a file named `(your-song-name).html` on your Desktop, or whatever folder location you've chosen. Double click on the file to open in a browser. Voila :blush:
 
 ![Apotheosis Notation](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/Apotheosis-intro-notation.png)
+
+# Feedback
+
+Please share your ideas and suggestions here: https://forum.bloomexperiment.com/t/sky-python-transcriber/97
