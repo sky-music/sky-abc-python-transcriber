@@ -20,10 +20,9 @@ It would be just `python skytranscriber.py` on Windows.
 ![terminal-with-instructions.png](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/terminal-with-instructions.png)
 
 
-3. 
-![sky-python-transcriber-cli](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/sky-python-transcriber-cli.png)
+3. Use QWERT, ASDFG, ZXCVB as the harp keyboard. Brackets and spaces are allowed for notation. Press Enter each time you want to start transcribing a new line.
 
-Use QWERT, ASDFG, ZXCVB as the harp keyboard. Brackets and spaces are allowed for notation. Press Enter each time you want to start transcribing a new line.
+![sky-python-transcriber-cli](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/sky-python-transcriber-cli.png)
 
 4. Press Enter on a blank line to finish the song. There'll be a file named `(your-song-name).html` on your Desktop, or whatever folder location you've chosen. Double click on it to open. Voila :blush:
 
