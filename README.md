@@ -1,4 +1,4 @@
-# sky-python-transcriber
+# Sky Python Transcriber
 
 This is piece of Python code that allows you to write [Sky](https://thatgamecompany.com/sky) song notations into a webpage. I restarted but it's okay y'all :+1:
 
