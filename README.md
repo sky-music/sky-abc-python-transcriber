@@ -1,7 +1,6 @@
 # sky-python-transcriber
-I restarted but it's okay y'all :+1: :+1:
 
-This is piece of Python code that allows you to write [Sky](https://thatgamecompany.com/sky) song notations into a webpage.
+This is piece of Python code that allows you to write [Sky](https://thatgamecompany.com/sky) song notations into a webpage. I restarted but it's okay y'all :+1: :+1:
 
 Click the green <kbd>Clone or Download</kbd> button in the top right, and then Download ZIP.
 
@@ -16,12 +15,9 @@ cd Desktop
 python3 skytranscriber.py
 ```
 
-I am using a Mac, it would be just `python skytranscriber.py` on Windows I think.
-
-This changes the directory to your Desktop (or replace `cd Desktop` whatever location you've chosen e.g. `cd Documents/`), and then runs the file.
+I am using a Mac, it would be just `python skytranscriber.py` on Windows.
 
 ![terminal-with-instructions.png](https://github.com/t1-tracey/sky-python-transcriber/blob/master/images/terminal-with-instructions.png)
-
 
 
 3. Use QWERT, ASDFG, ZXCVB as the harp keyboard, and <kbd>(</kbd><kbd>)</kbd> for brackets. Spaces are allowed. Type a line, and press Enter each time you want to start a new line.
