@@ -1,4 +1,4 @@
-# Sky Python Transcriber
+# Sky ABC Python Transcriber
 
 This is piece of Python code that allows you to write [Sky](https://thatgamecompany.com/sky) song notations into a webpage. I restarted but it's okay y'all :+1:
 
@@ -13,7 +13,7 @@ This is piece of Python code that allows you to write [Sky](https://thatgamecomp
 
 This will change directory:
 ```
-cd Desktop/sky-python-transcriber-master
+cd Desktop/sky-abc-python-transcriber-master
 ```
 
 This will run your program: (If you don't have Python installed, see the [Python website](https://python.org))
@@ -27,7 +27,7 @@ python3 skytranscriber.py
 
 This will change directory:
 ```
-cd Desktop/sky-python-transcriber-master
+cd Desktop/sky-abc-python-transcriber-master
 ```
 
 This will run your program: (If you don't have Python installed, see the [Python website](https://python.org))
