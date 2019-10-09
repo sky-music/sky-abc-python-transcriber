@@ -1,6 +1,6 @@
 # Sky ABC Python Transcriber
 
-This is piece of Python code that allows you to write [Sky](https://thatgamecompany.com/sky) song notations into a webpage. I restarted but it's okay y'all :+1:
+This is Python code that outputs Sky songs in the ABC1-5 notation. The notes are colored according to which row they are in. :+1:
 
 # Instructions to install
 
