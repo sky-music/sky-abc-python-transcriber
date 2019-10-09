@@ -39,6 +39,6 @@ python skytranscriber.py
 
 ![sky-python-transcriber-cli](https://github.com/t1-tracey/sky-abc-python-transcriber/blob/master/images/sky-python-transcriber-cli.png)
 
-5. Press Enter on a blank line to finish the song. There'll be a file named `(your-song-name).html` on your Desktop in the sky-python-transcriber-master folder. Double click on it to open. Voila :blush:
+5. Press Enter on a blank line to finish the song. There'll be a file named `(your-song-name).html` on your Desktop in the sky-abc-python-transcriber-master folder. Double click on it to open. Voila :blush:
 
 ![Apotheosis Notation](https://github.com/t1-tracey/sky-abc-python-transcriber/blob/master/images/Apotheosis-intro-notation.png)
