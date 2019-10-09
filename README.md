@@ -1,6 +1,6 @@
 # Sky ABC Python Transcriber
 
-This is Python code that outputs Sky songs in the ABC1-5 notation. The notes are colored according to which row they are in.
+This is a Python program that outputs Sky songs in the ABC1-5 notation. The notes are colored according to which row they are in.
 
 # Instructions to install
 
